@@ -1,0 +1,947 @@
+Бу кинигэ-ни улахан киһи-эхэ анаа-быт-ым, онон, оҕо-лор-тон, бырастыы гын-ыҥ диэн көрдөһө-бүн
+1  Бу	этот
+1g бу<prn><dem><nom>	wrong
+1g бу<mod>	correct
+2  кинигэни	книга-ACC
+2g кинигэ<n><acc>	correct
+3  улахан	большой
+3g улахан<adj>	correct
+3g улахан<adj><subst><nom>	wrong
+3g улахан<adj>+э<cop><aor><p3><sg>	wrong
+3g улахан<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+4  киһиэхэ	человек-DAT
+4g киһи<n><dat>	correct
+5  анаабытым	посвещать-PST.PTCP-1SG
+5g анаа<v><tv><plu><p1><sg>	wrong
+5g анаа<v><tv><ger_past><px1sg><nom>	wrong
+5g анаа<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+6  онон	поэтому
+6g ол<prn><dem><sg><ins>	wrong
+6g онон<cnjadv>	correct
+7  оҕолортон	ребёнок-PL-ABL
+7g оҕо<n><pl><abl>	correct
+8  бырастыы	прощение
+8g бырастыы<ij>	correct
+9  гыныҥ	делать-2SG
+9g гын<v><tv><imp><p2><pl>	wrong
+10  диэн	CIT
+10g диэн<post>	wrong
+10g диэ<v><tv><gna_perf>	wrong
+10g диэ<v><tv><prc_perf>	wrong
+10g диэ<v><tv><ger_irre><nom>	wrong
+10g диэн<cnjcoo>	correct
+11  көрдөһөбүн	просить-NPST.PTCP-1SG
+11g көрдөс<v><iv><aor><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+11g көрдөс<v><tv><aor><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+Процент правильных слов: 81.82
+
+Бэйэ-б-ин көмүскэ-нэн эт-тэх-пин-э: бу улахан киһи – мин истиҥ доҕор-ум.
+1  Бэйэбин	REFL-POSS.1SG-ACC
+1g бэйэ<n><px1sg><acc>	correct
+1g бэйэ<n><nom>+э<cop><aor><p1><sg>	wrong
+2  көмүскэнэн	(глазница)-INS
+2g көмүскэн<v><iv><gna_perf>	wrong
+2g көмүскэн<v><iv><prc_perf>	wrong
+2g көмүскэ<n><ins>	correct
+Ошибка в глоссах: LOC
+3  эттэхпинэ	говорить-COND-1SG-LOC
+3g эт<v><tv><ger_cond><px1sg><par>	wrong
+3g эт<vaux><ger_cond><px1sg><par>	wrong
+4  бу	этот
+4g бу<prn><dem><nom>	wrong
+4g бу<mod>	correct
+5  улахан	большой
+5g улахан<adj>	correct
+5g улахан<adj><subst><nom>	wrong
+5g улахан<adj>+э<cop><aor><p3><sg>	wrong
+5g улахан<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+6  киһи	человек
+6g киһи<n><attr>	wrong
+6g киһи<n><nom>	correct
+6g киһи<n><nom>+э<cop><aor><p3><sg>	wrong
+7  мин	я
+7g мин<prn><pers><p1><sg><nom>	wrong
+7g мин<n><attr>	wrong
+7g мин<n><nom>	correct
+7g мин<n><nom>+э<cop><aor><p3><sg>	wrong
+8  истиҥ	задушевный
+8g ис<v><iv><ifi><p2><sg>	wrong
+8g ис<v><tv><ifi><p2><sg>	wrong
+8g истиҥ<adj>	correct
+8g иһит<v><tv><imp><p2><pl>	wrong
+8g истиҥ<adj>+э<cop><aor><p3><sg>	wrong
+9  доҕорум	друг-1SG
+9g доҕор<n><px1sg><nom>	wrong
+9g доҕор<n><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 77.78
+
+Өссө: кини күн_сир-и-гэр өйдөө-бөтө диэн суох, бэл оҕо кинигэ-лэр-ин кытта өйдүүр.
+1  Өссө	ещё
+1g өссө<adv>	correct
+1g өссө<mod>	correct
+1g өссө<adv>+э<cop><aor><p3><sg>	wrong
+2  кини	он(а)
+2g кини<prn><pers><p3><hu><sg><nom>	wrong
+2g кини<n><attr>	wrong
+2g кини<n><nom>	correct
+2g кини<n><nom>+э<cop><aor><p3><sg>	wrong
+3  күн_сиригэр	мир-DAT
+4  өйдөөбөтө	понимать-NPST.PTCP.NEG
+4g өйдөө<v><tv><neg><pii><p3><sg>	wrong
+4g өйдөө<v><tv><neg><ifi><p3><sg>	wrong
+4g өйдөө<v><tv><neg><ger_aor><px3sg><nom>	correct, но нашлись лишние глоссы: <neg>,<ger_aor>,<px3sg>
+4g өйдөө<v><tv><neg><ger_aor><px3sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <neg>,<ger_aor>,<px3sg>,+э<cop>,<aor>,<p3>
+5  диэн	CIT
+5g диэн<post>	wrong
+5g диэ<v><tv><gna_perf>	wrong
+5g диэ<v><tv><prc_perf>	wrong
+5g диэ<v><tv><ger_irre><nom>	wrong
+5g диэн<cnjcoo>	correct
+Ошибка в глоссах: NEG
+6  суох	NEG
+6g суох<adj>	correct
+6g суох<mod>	correct
+6g суох<post>	correct
+6g суох<adv>	correct
+6g суох<adj><subst><nom>	wrong
+6g суох<adj>+э<cop><aor><p3><sg>	wrong
+6g суох<adv>+э<cop><aor><p3><sg>	wrong
+6g суох<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+7  бэл	даже
+7g бэл<mod_ass>	wrong
+7g бэл<mod>	correct
+7g бэл<np><ant><m><nom>	wrong
+7g бэл<np><ant><m><nom>+э<cop><aor><p3><sg>	wrong
+8  оҕо	ребёнок
+8g оҕо<n><attr>	wrong
+8g ох<n><px3sg><nom>	wrong
+8g оҕо<n><nom>	correct
+8g ох<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+8g оҕо<n><nom>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: PL.POSS.3SG
+9  кинигэлэрин	книга-PL.POSS.3SG-ACC
+9g кинигэ<n><pl><px3sp><acc>	correct, но нашлись лишние глоссы: <pl>,<px3sp>
+9g кинигэ<n><px3pl><acc>	correct, но нашлись лишние глоссы: <px3pl>
+10  кытта	с
+10g кытта<post>	correct
+10g кытын<v><iv><gna_impf>	wrong
+10g кытын<v><iv><prc_impf>	wrong
+11  өйдүүр	понимать.NPST.PTCP
+11g өйдөө<v><tv><gpr_aor>	wrong
+11g өйдөө<v><tv><prc_aor>	wrong
+11g өйдөө<v><tv><aor><p3><sg>	wrong
+11g өйдөө<v><tv><ger_aor><nom>	wrong
+11g өйдөө<v><tv><ger_aor><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 81.82
+
+Уонна түмү-гэр, кини Франция-ҕа олор-ор, онтон онно билигин хоргуйуу,  тоҥуу үгэн-э.
+1  Уонна	и
+1g уонна<adv>	correct
+1g уонна<cnjcoo>	correct
+1g уон<num><subst><par>	wrong
+1g уонна<adv>+э<cop><aor><p3><sg>	wrong
+2  түмүгэр	итог-DAT
+2g түмүк<n><px3sp><dat>	correct, но нашлись лишние глоссы: <px3sp>
+3  кини	он(а)
+3g кини<prn><pers><p3><hu><sg><nom>	wrong
+3g кини<n><attr>	wrong
+3g кини<n><nom>	correct
+3g кини<n><nom>+э<cop><aor><p3><sg>	wrong
+4  Францияҕа	Франция-DAT
+Ошибка в глоссах: NPST.PTCP.3SG
+5  олорор	жить-NPST.PTCP.3SG
+5g олор<v><iv><gpr_aor>	wrong
+5g олор<v><iv><prc_aor>	wrong
+5g олор<v><iv><aor><p3><sg>	wrong
+5g олорт<v><tv><gna_cond><p3><sg>	wrong
+5g олор<v><iv><ger_aor><nom>	wrong
+5g олор<v><iv><ger_aor><nom>+э<cop><aor><p3><sg>	wrong
+6  онтон	а
+6g ол<prn><dem><abl>	wrong
+6g онтон<adv>	correct
+6g онтон<adv>+э<cop><aor><p3><sg>	wrong
+7  онно	там
+7g онно<n><attr>	wrong
+7g ол<prn><dem><loc>	wrong
+7g онно<adv>	correct
+7g онно<adv>+э<cop><aor><p3><sg>	wrong
+7g онно<n><nom>	correct
+7g орун<n><px3sg><nom>	wrong
+7g онно<n><nom>+э<cop><aor><p3><sg>	wrong
+7g орун<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+8  билигин	сейчас
+8g билигин<adv>	correct
+8g били<n><px2sg><acc>	wrong
+8g билигин<adv>+э<cop><aor><p3><sg>	wrong
+8g били<n><nom>+э<cop><aor><p2><sg>	wrong
+9  хоргуйуу	голод
+9g хоргуйуу<n><attr>	wrong
+9g хоргуй<v><iv><ger><nom>	wrong
+9g хоргуйуу<n><nom>	correct
+9g хоргуй<v><iv><ger><nom>+э<cop><aor><p3><sg>	wrong
+9g хоргуйуу<n><nom>+э<cop><aor><p3><sg>	wrong
+10  тоҥуу	холод
+10g тоҥуу<n><attr>	wrong
+10g тоҥоо<v><iv><gna_impf>	wrong
+10g тоҥоо<v><iv><prc_impf>	wrong
+10g тоҥоо<v><tv><gna_impf>	wrong
+10g тоҥоо<v><tv><prc_impf>	wrong
+10g тоҥ<v><iv><ger><nom>	wrong
+10g тоҥуу<n><nom>	correct
+10g тоҥ<v><iv><ger><nom>+э<cop><aor><p3><sg>	wrong
+10g тоҥуу<n><nom>+э<cop><aor><p3><sg>	wrong
+11  үгэнэ	разгар-POSS.3SG
+11g үгэн<n><px3sg><nom>	correct
+11g үгэн<n><px3sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+Процент правильных слов: 81.82
+
+Онон кини-ни уоскут-уоҕ-у, сэргэхсит-иэҕ-и баҕар-ыл-лар.
+1  Онон	там
+1g ол<prn><dem><sg><ins>	wrong
+1g онон<cnjadv>	correct
+2  кинини	он(а)-ACC
+2g кини<prn><pers><p3><hu><sg><acc>	correct, но нашлись лишние глоссы: <pers>,<p3>,<hu>
+2g кини<n><acc>	correct
+3  уоскутуоҕу	успокаивать-FUT.PTCP-ACC
+3g уоскут<v><tv><ger_fut><acc>	correct
+4  сэргэхситиэҕи	ободрять-FUT.PTCP-ACC
+4g сэргэхсит<v><tv><ger_fut><acc>	correct
+Ошибка в глоссах: ?
+5  баҕарыллар	хотеть-?-PL
+5g баҕар<v><tv><pass><gpr_aor>	wrong
+5g баҕар<v><tv><pass><prc_aor>	wrong
+5g баҕар<v><tv><pass><aor><p3><sg>	wrong
+5g баҕар<v><tv><pass><ger_aor><nom>	wrong
+5g баҕар<v><tv><pass><ger_aor><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 80.0
+
+Өскөтө маны бары-ты-н ыл-ым-матах-хыт-ына, мин бу кинигэ-ни кини хаһааҥҥы эрэ кыра уол-чаан эрдэҕинээҕити-гэр анаа-быт буолуум.
+1  Өскөтө	если
+1g өскөтө<cnjsub>	correct
+2  маны	этот.ACC
+2g бу<prn><dem><acc>	wrong
+3  барытын	весь-POSS.3SG-ACC
+3g бары<prn><qnt><px3sg><acc>	correct, но нашлись лишние глоссы: <qnt>
+Ошибка в глоссах: ?
+4  ылымматаххытына	брать-REFL-PST.PTCP.NEG-2PL-?
+4g ылын<v><tv><neg><ger_past><px2pl><par>	wrong
+4g ылын<v><tv><neg><ger_cond><px2pl><par>	wrong
+5  мин	я
+5g мин<prn><pers><p1><sg><nom>	wrong
+5g мин<n><attr>	wrong
+5g мин<n><nom>	correct
+5g мин<n><nom>+э<cop><aor><p3><sg>	wrong
+6  бу	этот
+6g бу<prn><dem><nom>	wrong
+6g бу<mod>	correct
+7  кинигэни	книга-ACC
+7g кинигэ<n><acc>	correct
+8  кини	он(а)
+8g кини<prn><pers><p3><hu><sg><nom>	wrong
+8g кини<n><attr>	wrong
+8g кини<n><nom>	correct
+8g кини<n><nom>+э<cop><aor><p3><sg>	wrong
+9  хаһааҥҥы	PART
+9g хаһааҥҥы<det><itg>	wrong
+10  эрэ	маленький
+10g эрэ<adv>	correct
+10g эр<n><px3sg><nom>	wrong
+10g эрт<v><iv><ifi><p3><sg>	wrong
+10g эрэ<adv>+э<cop><aor><p3><sg>	wrong
+10g эр<vaux><gna_impf>	wrong
+10g эр<vaux><prc_impf>	wrong
+10g эр<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+11  кыра	мальчик-DIM
+11g кыра<adj>	correct
+11g кыр<v><iv><gna_impf>	correct, но нашлись лишние глоссы: <gna_impf>
+11g кыр<v><iv><prc_impf>	correct, но нашлись лишние глоссы: <prc_impf>
+11g кыра<adj><subst><nom>	correct, но нашлись лишние глоссы: <subst>
+11g кыра<adj>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+11g кыр<n><px3sg><nom>	correct, но нашлись лишние глоссы: <px3sg>
+11g кыра<adj><subst><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <subst>,+э<cop>,<aor>,<p3>
+11g кыр<n><px3sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <px3sg>,+э<cop>,<aor>,<p3>
+12  уолчаан	-DAT
+12g уолчаан<n><attr>	wrong
+12g уолчаан<n><nom>	wrong
+12g уолчаан<n><nom>+э<cop><aor><p3><sg>	wrong
+13  эрдэҕинээҕитигэр	давать-PST.PTCP
+Ошибка в глоссах: ?
+14  анаабыт	быть-?
+14g анаа<v><tv><past><p3><sg>	wrong
+14g анаа<v><tv><gpr_past>	wrong
+14g анаа<v><tv><ger_past><nom>	wrong
+14g анаа<v><tv><ger_past><nom>+э<cop><aor><p3><sg>	wrong
+15  буолуум	
+15g буолуу<n><px1sg><nom>	wrong
+15g буол<v><iv><ger><px1sg><nom>	wrong
+15g буол<v><iv><imp><p1><sg>	wrong
+15g буолуу<n><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+15g буол<v><iv><ger><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 53.33
+
+Улахан дьон  үгүс-тэрэ төһө да умун-нал-лар, маҥнай бары оҕо буола сырыт-тах-тар-а дии.
+1  Улахан	большой
+1g улахан<adj>	correct
+1g улахан<adj><subst><nom>	wrong
+1g улахан<adj>+э<cop><aor><p3><sg>	wrong
+1g улахан<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+2  дьон	народ
+2g дьон<n><attr>	wrong
+2g дьон<n><nom>	correct
+2g дьон<n><nom>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: ?
+3  үгүстэрэ	много-?
+3g үгүс<adj><subst><pl><px3sp><nom>	wrong
+3g үгүс<adj><subst><px3pl><nom>	wrong
+3g үгүс<n><pl><px3sp><nom>	wrong
+3g үгүс<n><px3pl><nom>	wrong
+3g үгүс<adj><subst><pl><px3sp><nom>+э<cop><aor><p3><sg>	wrong
+3g үгүс<adj><subst><px3pl><nom>+э<cop><aor><p3><sg>	wrong
+3g үгүс<n><pl><px3sp><nom>+э<cop><aor><p3><sg>	wrong
+3g үгүс<n><px3pl><nom>+э<cop><aor><p3><sg>	wrong
+4  төһө	сколько
+4g төһө<adv>	correct
+4g төһө<adv>+э<cop><aor><p3><sg>	wrong
+4g төһө<prn><itg><nom>	wrong
+4g төһө<prn><itg><nom>+э<cop><aor><p3><sg>	wrong
+5  да	EMPH
+5g да<cnjcoo>	correct
+Ошибка в глоссах: ?
+6  умунналлар	забывать-?-PL
+7  маҥнай	сначала
+7g маҥнай<adv>	correct
+7g маҥнай<adv>+э<cop><aor><p3><sg>	wrong
+8  бары	все
+8g бары<adj>	correct
+8g бары<adj>+э<cop><aor><p3><sg>	wrong
+8g бары<prn><qnt><nom>	wrong
+8g бары<prn><qnt><nom>+э<cop><aor><p3><sg>	wrong
+9  оҕо	ребёнок
+9g оҕо<n><attr>	wrong
+9g ох<n><px3sg><nom>	wrong
+9g оҕо<n><nom>	correct
+9g ох<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+9g оҕо<n><nom>+э<cop><aor><p3><sg>	wrong
+10  буола	быть-CVB
+10g буола<n><attr>	wrong
+10g буол<v><iv><gna_impf>	correct
+10g буол<v><iv><prc_impf>	wrong
+10g буола<n><nom>	wrong
+10g буола<n><nom>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: 3
+11  сырыттахтара	AUX-COND-PL-3
+11g сырыт<v><iv><past><ded><p3><pl>	wrong
+11g сырыт<v><iv><ger_cond><pl><px3sp><nom>	wrong
+11g сырыт<v><iv><ger_cond><px3pl><nom>	wrong
+11g сырыт<v><iv><ger_cond><pl><px3sp><nom>+э<cop><aor><p3><sg>	wrong
+11g сырыт<v><iv><ger_cond><px3pl><nom>+э<cop><aor><p3><sg>	wrong
+12  дии	EMPH
+12g дии<mod_ass>	correct, но нашлись лишние глоссы: <mod_ass>
+12g диэ<v><tv><gna_impf>	correct, но нашлись лишние глоссы: <gna_impf>
+12g диэ<v><tv><prc_impf>	correct, но нашлись лишние глоссы: <prc_impf>
+Процент правильных слов: 75.0
+
+Итиччэ-ти-гэр, анабыл-бын көннөр-ө-бүн:
+Ошибка в глоссах: ?
+1  Итиччэтигэр	так-?-DAT
+2  анабылбын	посвящение-POSS.1SG-ACC
+2g анабыл<n><px1sg><acc>	correct
+2g анабыл<n><nom>+э<cop><aor><p1><sg>	wrong
+3  көннөрөбүн	исправлять-NPST.PTCP-1SG
+3g көннөр<v><tv><aor><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+Процент правильных слов: 66.67
+
+ЛЕОН ВЕРТИ, кыра эр-дэҕ-инээҕ-ити-гэр.
+Ошибка в глоссах: ЛЕОН
+1  ЛЕОН	ЛЕОН
+Ошибка в глоссах: ВЕРТИ
+2  ВЕРТИ	ВЕРТИ
+3  кыра	PARTмаленький
+3g кыра<adj>	correct
+3g кыр<v><iv><gna_impf>	wrong
+3g кыр<v><iv><prc_impf>	wrong
+3g кыра<adj><subst><nom>	wrong
+3g кыра<adj>+э<cop><aor><p3><sg>	wrong
+3g кыр<n><px3sg><nom>	wrong
+3g кыра<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+3g кыр<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: ?
+4  эрдэҕинээҕитигэр	AUX-COND-PROPR-?-DAT
+Процент правильных слов: 25.0
+
+Мин, биирдэ, алта саас-п-ар сылдь-ан, аар тайҕа туһунан «Чахчы буол-бут түгэн-нэр» диэн аат-таах кинигэ-ҕэ, дьикти хартыына-ны көр-бүт-үм.
+1  Мин	я
+1g мин<prn><pers><p1><sg><nom>	wrong
+1g мин<n><attr>	wrong
+1g мин<n><nom>	correct
+1g мин<n><nom>+э<cop><aor><p3><sg>	wrong
+2  биирдэ	однажды
+2g биирдэ<adv>	correct
+2g биир<num><subst><par>	wrong
+2g биирдэ<adv>+э<cop><aor><p3><sg>	wrong
+3  алта	шесть
+3g алта<num>	correct
+3g алта<num><subst><nom>	wrong
+3g алта<num><subst><nom>+э<cop><aor><p3><sg>	wrong
+4  сааспар	возраст-POSS.1SG-DAT
+4g саас<n><px1sg><dat>	correct
+5  сылдьан	AUX-CVB
+5g сырыт<v><iv><gna_perf>	wrong
+5g сырыт<v><iv><prc_perf>	wrong
+6  аар	священный
+6g аар<adj>	correct
+6g аар<v><tv><imp><p2><sg>	wrong
+6g аар<adj>+э<cop><aor><p3><sg>	wrong
+7  тайҕа	лес
+7g тайҕа<n><attr>	wrong
+7g тайҕа<n><nom>	correct
+7g тайҕа<n><nom>+э<cop><aor><p3><sg>	wrong
+8  туһунан	о
+8g туһунан<adv>	correct
+8g туһун<v><tv><gna_perf>	wrong
+8g туһун<v><tv><prc_perf>	wrong
+8g туһунан<adv>+э<cop><aor><p3><sg>	wrong
+8g тус<n><px3sg><ins>	wrong
+8g туһ<n><px3sg><ins>	wrong
+8g тус<n><ins>	wrong
+8g туһ<n><ins>	wrong
+9  Чахчы	на_самом_деле
+9g чахчы<adv>	correct
+9g чахчы<mod>	correct
+9g чахчы<adv>+э<cop><aor><p3><sg>	wrong
+10  буолбут	быть-PST.PTCP
+10g буол<v><iv><past><p3><sg>	correct, но нашлись лишние глоссы: <p3>
+10g буол<v><iv><gpr_past>	wrong
+10g буол<v><iv><ger_past><nom>	correct
+10g буол<v><iv><ger_past><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+11  түгэннэр	случай-PL
+11g түгэн<v><tv><gna_cond><p3><sg>	wrong
+11g түгэн<n><pl><nom>	correct
+11g түгэн<n><nom>+э<cop><aor><p3><pl>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+11g түгэн<n><pl><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+12  диэн	CIT
+12g диэн<post>	wrong
+12g диэ<v><tv><gna_perf>	wrong
+12g диэ<v><tv><prc_perf>	wrong
+12g диэ<v><tv><ger_irre><nom>	wrong
+12g диэн<cnjcoo>	correct
+13  ааттаах	имя-PROPR
+13g ааттаах<adj>	correct
+13g ааттаах<adj>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+14  кинигэҕэ	книга-DAT
+14g кинигэ<n><dat>	correct
+15  дьикти	удивительный
+15g дьикти<adj>	correct
+15g дьикти<adj>+э<cop><aor><p3><sg>	wrong
+16  хартыынаны	картинка-ACC
+16g хартыына<n><acc>	correct
+17  көрбүтүм	видеть-PREPST-1SG
+17g көр<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+17g көр<v><tv><ger_past><px1sg><nom>	wrong
+17g көр<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 94.12
+
+Ол хартыына-ҕа улахыын да улахан моҕой – адьырҕа кыыл-ы ыйыстан эр-эр-э уруһуйдам-мыт э-тэ.
+1  Ол	тот
+1g ол<prn><dem><nom>	wrong
+1g ол<mod>	correct
+2  хартыынаҕа	каринка-DAT
+2g хартыына<n><dat>	correct
+3  улахыын	огромный
+4  да	EMPH
+4g да<cnjcoo>	correct
+5  улахан	большой
+5g улахан<adj>	correct
+5g улахан<adj><subst><nom>	wrong
+5g улахан<adj>+э<cop><aor><p3><sg>	wrong
+5g улахан<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+6  моҕой	змея
+6g моҕой<n><attr>	wrong
+6g моҕой<n><nom>	correct
+6g моҕой<n><nom>+э<cop><aor><p3><sg>	wrong
+7  адьырҕа	хищный
+7g адьырҕа<n><attr>	wrong
+7g адьырҕа<n><nom>	correct
+7g адьырҕа<n><nom>+э<cop><aor><p3><sg>	wrong
+8  кыылы	зверь-ACC
+8g кыыл<n><acc>	correct
+9  ыйыстан	глотать.CVB
+10  эрэрэ	AUX-NPST.PTCP-3SG
+10g эр<vaux><pii><p3><sg>	wrong
+10g эр<vaux><ger_aor><px3sg><nom>	wrong
+10g эр<vaux><ger_aor><px3sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <px3sg>,+э<cop>,<p3>
+11  уруһуйдаммыт	рисовать.REFL-PST.PTCP
+Ошибка в глоссах: PST.3SG
+12  этэ	AUX-PST.3SG
+12g э<cop><ifi><p3><sg>	wrong
+12g эт<n><px3sg><nom>	wrong
+12g эт<v><tv><gna_impf>	wrong
+12g эт<v><tv><prc_impf>	wrong
+12g э<n><par>	wrong
+12g эт<vaux><gna_impf>	correct, но нашлись лишние глоссы: <gna_impf>
+12g эт<vaux><prc_impf>	correct, но нашлись лишние глоссы: <prc_impf>
+12g э<n><px3sg><nom>	wrong
+12g эт<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+12g э<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 75.0
+
+Бу маннык:
+1  Бу	это
+1g бу<prn><dem><nom>	wrong
+1g бу<mod>	correct
+2  маннык	подобный
+2g маннык<det><dem>	wrong
+2g маннык<adj>	correct
+2g маннык<adj><subst><nom>	wrong
+2g маннык<adj>+э<cop><aor><p3><sg>	wrong
+2g маннык<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 100.0
+
+Кинигэҕэ суруллубут:
+1  Кинигэҕэ	книга-DAT
+1g кинигэ<n><dat>	correct
+2  суруллубут	писать-REFL-PST.PTCP
+2g суруллубут<adj>	wrong
+2g суруллубут<adj>+э<cop><aor><p3><sg>	wrong
+2g суруй<v><tv><pass><ifi><p1><pl>	wrong
+2g суруй<v><tv><pass><past><p3><sg>	correct, но нашлись лишние глоссы: <pass>,<p3>
+2g суруй<v><tv><pass><gpr_past>	wrong
+2g суруй<v><tv><pass><ger_past><nom>	correct, но нашлись лишние глоссы: <pass>
+2g суруй<v><tv><pass><ger_past><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <pass>,+э<cop>,<aor>,<p3>
+Процент правильных слов: 100.0
+
+«Моҕой бул-д-ун ыстаа-бакка эрэ бүтүннүү ыйыстар.
+1  Моҕой	змея
+1g моҕой<n><attr>	wrong
+1g моҕой<n><nom>	correct
+1g моҕой<n><nom>+э<cop><aor><p3><sg>	wrong
+2  булдун	жертва-POSS.3SG-ACC
+3  ыстаабакка	жевать-CVB.NEG
+3g ыстаа<v><tv><abes><p3><sg>	correct, но нашлись лишние глоссы: <p3>
+3g ыстаа<v><tv><gna_abes>	correct
+3g ыстаа<v><tv><neg><ger_aor><dat>	wrong
+4  эрэ	EMPH
+4g эрэ<adv>	correct
+4g эр<n><px3sg><nom>	correct, но нашлись лишние глоссы: <px3sg>
+4g эрт<v><iv><ifi><p3><sg>	correct, но нашлись лишние глоссы: <ifi>,<p3>
+4g эрэ<adv>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+4g эр<vaux><gna_impf>	correct, но нашлись лишние глоссы: <gna_impf>
+4g эр<vaux><prc_impf>	correct, но нашлись лишние глоссы: <prc_impf>
+4g эр<n><px3sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <px3sg>,+э<cop>,<aor>,<p3>
+5  бүтүннүү	целиком
+5g бүтүннүү<adv>	correct
+5g бүтүннүү<adv>+э<cop><aor><p3><sg>	wrong
+6  ыйыстар	глотать.NPST.PTCP.3SG
+6g ыйыстар<adj>	correct
+6g ыйыстар<n><attr>	wrong
+6g ыйыс<v><tv><gna_cond><p3><sg>	wrong
+6g ыйыстар<adj>+э<cop><aor><p3><sg>	wrong
+6g ый<v><tv><coop><gna_cond><p3><sg>	wrong
+6g ыйыстар<n><nom>	correct
+6g ыйыстар<n><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 83.33
+
+Ол кэннэ кыай-ан хамсаа-бат буол-ар уонна аһ-а буһ-уор диэри сыл аҥарын быһа утуй-ар» диэн.
+1  Ол	тот
+1g ол<prn><dem><nom>	wrong
+1g ол<mod>	correct
+2  кэннэ	после
+2g кэннэ<post>	correct
+2g кэннэ<n><attr>	wrong
+2g кэлин<n><px3sg><nom>	wrong
+2g кэннэ<n><nom>	correct
+2g кэлин<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+2g кэннэ<n><nom>+э<cop><aor><p3><sg>	wrong
+3  кыайан	мочь-CVB
+3g кыай<v><tv><gna_perf>	correct
+3g кыай<v><tv><prc_perf>	wrong
+4  хамсаабат	двигаться-NPST.PTCP.NEG
+4g хамсаа<v><iv><neg><gpr_aor>	wrong
+4g хамсаа<v><iv><neg><aor><p3><sg>	correct, но нашлись лишние глоссы: <neg>,<aor>,<p3>
+4g хамсаа<v><iv><neg><ger_aor><nom>	correct, но нашлись лишние глоссы: <neg>,<ger_aor>
+4g хамсаа<v><iv><neg><ger_aor><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <neg>,<ger_aor>,+э<cop>,<aor>,<p3>
+5  буолар	AUX-NPST.PTCP
+5g буол<v><iv><gpr_aor>	wrong
+5g буол<v><iv><prc_aor>	wrong
+5g буол<v><iv><aor><p3><sg>	wrong
+5g буол<v><iv><ger_aor><nom>	wrong
+5g буол<v><iv><ger_aor><nom>+э<cop><aor><p3><sg>	wrong
+6  уонна	и
+6g уонна<adv>	correct
+6g уонна<cnjcoo>	correct
+6g уон<num><subst><par>	wrong
+6g уонна<adv>+э<cop><aor><p3><sg>	wrong
+7  аһа	еда-POSS.3SG
+7g аһа<ij>	wrong
+7g ас<v><tv><gna_impf>	wrong
+7g ас<v><tv><prc_impf>	wrong
+7g ас<n><px3sg><nom>	correct
+7g ас<n><px3sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+Ошибка в глоссах: ?
+8  буһуор	вариться-?
+9  диэри	до
+9g диэри<post>	correct
+9g диэ<v><tv><gna_plan>	wrong
+9g диэ<v><tv><gna_plan><p3><sg>	wrong
+10  сыл	год
+10g сыл<n><attr>	wrong
+10g сыл<n><nom>	correct
+10g сыл<n><nom>+э<cop><aor><p3><sg>	wrong
+11  аҥарын	половина-ACC
+11g аҥар<n><px3sg><acc>	correct, но нашлись лишние глоссы: <px3sg>
+12  быһа	в_течение
+12g быһа<adj>	correct
+12g быһа<adv>	correct
+12g быһа<post>	correct
+12g быс<v><tv><gna_impf>	wrong
+12g быс<v><tv><prc_impf>	wrong
+12g быһа<adj>+э<cop><aor><p3><sg>	wrong
+12g быһа<adv>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: NPST.PTCP.3SG
+13  утуйар	спать-NPST.PTCP.3SG
+13g утуй<v><iv><gpr_aor>	wrong
+13g утуй<v><iv><prc_aor>	wrong
+13g утуй<v><iv><aor><p3><sg>	wrong
+13g утуй<v><iv><ger_aor><nom>	wrong
+13g утуй<v><iv><ger_aor><nom>+э<cop><aor><p3><sg>	wrong
+14  диэн	CIT
+14g диэн<post>	wrong
+14g диэ<v><tv><gna_perf>	wrong
+14g диэ<v><tv><prc_perf>	wrong
+14g диэ<v><tv><ger_irre><nom>	wrong
+14g диэн<cnjcoo>	correct
+Процент правильных слов: 78.57
+
+Мин араас быһылаан-нар-ынан толору түҥ тыа туһунан элбэҕи толкуйдаа-быт-ым уонна өҥнөөх харандааһ-ынан бастакы хартыына-б-ын уруһуйдаабытым.
+1  Мин	я
+1g мин<prn><pers><p1><sg><nom>	wrong
+1g мин<n><attr>	wrong
+1g мин<n><nom>	correct
+1g мин<n><nom>+э<cop><aor><p3><sg>	wrong
+2  араас	разный
+2g араас<adj>	correct
+2g араас<cnjcoo>	correct
+2g араас<adj><subst><nom>	wrong
+2g араас<adj>+э<cop><aor><p3><sg>	wrong
+2g араас<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+3  быһылааннарынан	беда-PL-INS
+3g быһылаан<n><pl><px3sp><ins>	correct, но нашлись лишние глоссы: <px3sp>
+3g быһылаан<n><pl><ins>	correct
+3g быһылаан<n><px3pl><ins>	wrong
+4  толору	полный
+4g толору<adj>	correct
+4g толору<adv>	correct
+4g толору<adj>+э<cop><aor><p3><sg>	wrong
+4g толору<adv>+э<cop><aor><p3><sg>	wrong
+5  түҥ	тёмный
+5g түҥ<adj>	correct
+5g түҥ<v><iv><imp><p2><sg>	wrong
+5g түҥ<adj>+э<cop><aor><p3><sg>	wrong
+6  тыа	лес
+6g тыа<adj>	correct
+6g тыа<n><attr>	wrong
+6g тыа<adj>+э<cop><aor><p3><sg>	wrong
+6g тыа<n><nom>	correct
+6g тыа<n><nom>+э<cop><aor><p3><sg>	wrong
+7  туһунан	о
+7g туһунан<adv>	correct
+7g туһун<v><tv><gna_perf>	wrong
+7g туһун<v><tv><prc_perf>	wrong
+7g туһунан<adv>+э<cop><aor><p3><sg>	wrong
+7g тус<n><px3sg><ins>	wrong
+7g туһ<n><px3sg><ins>	wrong
+7g тус<n><ins>	wrong
+7g туһ<n><ins>	wrong
+8  элбэҕи	много
+8g элбэх<adj><subst><acc>	wrong
+9  толкуйдаабытым	думать-PREPST-1SG
+9g толкуйдаа<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+9g толкуйдаа<v><tv><ger_past><px1sg><nom>	wrong
+9g толкуйдаа<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+10  уонна	и
+10g уонна<adv>	correct
+10g уонна<cnjcoo>	correct
+10g уон<num><subst><par>	wrong
+10g уонна<adv>+э<cop><aor><p3><sg>	wrong
+11  өҥнөөх	цветной
+11g өҥнөөх<adj>	correct
+11g өҥнөөх<adj>+э<cop><aor><p3><sg>	wrong
+12  харандааһынан	карандаш-INS
+12g харандаас<n><px3sg><ins>	correct, но нашлись лишние глоссы: <px3sg>
+12g харандаас<n><ins>	correct
+13  бастакы	первый
+13g бастакы<adj>	correct
+13g бастакы<num><ord>	wrong
+13g бастакы<adj>+э<cop><aor><p3><sg>	wrong
+13g бастакы<num><ord><subst><nom>	wrong
+13g бастакы<num><ord><subst><nom>+э<cop><aor><p3><sg>	wrong
+14  хартыынабын	картина-POSS.1SG-ACC
+14g хартыына<n><px1sg><acc>	correct
+14g хартыына<n><nom>+э<cop><aor><p1><sg>	wrong
+15  уруһуйдаабытым	рисовать-PREPST-1SG
+15g уруһуйдаа<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+15g уруһуйдаа<v><tv><ger_past><px1sg><nom>	wrong
+15g уруһуйдаа<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 93.33
+
+Ол 1-кы №-дээх уруһуй-ум э-тэ.
+1  Ол	то
+1g ол<prn><dem><nom>	wrong
+1g ол<mod>	correct
+Ошибка в глоссах: ый
+2  1кы	1-ый
+Ошибка в глоссах: PROP
+3  дээх	№-PROP
+4  уруһуйум	рисунок-POSS.1SG
+4g уруһуй<n><px1sg><nom>	correct
+4g уруһуй<n><px1sg><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+Ошибка в глоссах: PST
+5  этэ	AUX-PST-3SG
+5g э<cop><ifi><p3><sg>	wrong
+5g эт<n><px3sg><nom>	wrong
+5g эт<v><tv><gna_impf>	wrong
+5g эт<v><tv><prc_impf>	wrong
+5g э<n><par>	wrong
+5g эт<vaux><gna_impf>	wrong
+5g эт<vaux><prc_impf>	wrong
+5g э<n><px3sg><nom>	wrong
+5g эт<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+5g э<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 40.0
+
+Бу маны уруһуйдаа-быт-ым.
+1  Бу	это
+1g бу<prn><dem><nom>	wrong
+1g бу<mod>	correct
+2  маны	это-ACC
+2g бу<prn><dem><acc>	correct, но нашлись лишние глоссы: <dem>
+3  уруһуйдаабытым	рисовать-PREPST-1SG
+3g уруһуйдаа<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+3g уруһуйдаа<v><tv><ger_past><px1sg><nom>	wrong
+3g уруһуйдаа<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 100.0
+
+Ол кэннэ, айымньы-б-ын улахан дьоҥ-ҥо көр-дөр-бүт-үм уонна «төһө ынырыг-ый?» диэн ыйып-пыт-ым.
+1  Ол	то
+1g ол<prn><dem><nom>	wrong
+1g ол<mod>	correct
+2  кэннэ	после
+2g кэннэ<post>	correct
+2g кэннэ<n><attr>	wrong
+2g кэлин<n><px3sg><nom>	wrong
+2g кэннэ<n><nom>	correct
+2g кэлин<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+2g кэннэ<n><nom>+э<cop><aor><p3><sg>	wrong
+3  айымньыбын	творение-POSS.1SG-ACC
+3g айымньы<n><px1sg><acc>	correct
+3g айымньы<n><nom>+э<cop><aor><p1><sg>	wrong
+4  улахан	большой
+4g улахан<adj>	correct
+4g улахан<adj><subst><nom>	wrong
+4g улахан<adj>+э<cop><aor><p3><sg>	wrong
+4g улахан<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+5  дьоҥҥо	народ-DAT
+5g дьон<n><dat>	correct
+6  көрдөрбүтүм	смотреть-CAUS-PREPST-1SG
+6g көрдөр<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+6g көрдөр<v><tv><ger_past><px1sg><nom>	wrong
+6g көрдөр<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+7  уонна	и
+7g уонна<adv>	correct
+7g уонна<cnjcoo>	correct
+7g уон<num><subst><par>	wrong
+7g уонна<adv>+э<cop><aor><p3><sg>	wrong
+8  төһө	насколько
+8g төһө<adv>	correct
+8g төһө<adv>+э<cop><aor><p3><sg>	wrong
+8g төһө<prn><itg><nom>	wrong
+8g төһө<prn><itg><nom>+э<cop><aor><p3><sg>	wrong
+9  ынырыгый	страшно-INTER
+10  диэн	CIT
+10g диэн<post>	wrong
+10g диэ<v><tv><gna_perf>	wrong
+10g диэ<v><tv><prc_perf>	wrong
+10g диэ<v><tv><ger_irre><nom>	wrong
+10g диэн<cnjcoo>	correct
+11  ыйыппытым	спрашивать-PREPST-1SG
+11g ыйыт<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+11g ыйыт<v><tv><ger_past><px1sg><nom>	wrong
+11g ыйыт<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 90.91
+
+– Сэлээппэ туох ынырык-таах буолуой? –
+1  Сэлээппэ	шляпа
+1g сэлээппэ<n><attr>	wrong
+1g сэлээппэ<n><nom>	correct
+1g сэлээппэ<n><nom>+э<cop><aor><p3><sg>	wrong
+2  туох	что
+2g туох<prn><itg><nom>	wrong
+2g туох<mod>	correct
+3  ынырыктаах	страшный-PROPR
+Ошибка в глоссах: PART.ITER
+4  буолуой	PART.ITER
+Процент правильных слов: 50.0
+
+диэн, утар-быт-тар-а.
+1  диэн	CIT
+1g диэн<post>	wrong
+1g диэ<v><tv><gna_perf>	wrong
+1g диэ<v><tv><prc_perf>	wrong
+1g диэ<v><tv><ger_irre><nom>	wrong
+1g диэн<cnjcoo>	correct
+Ошибка в глоссах: 3
+2  утарбыттара	быть_против-PREPST-PL-3
+2g утар<v><tv><plu><p3><pl>	correct, но нашлись лишние глоссы: <p3>
+2g утар<v><tv><ger_past><pl><px3sp><nom>	wrong
+2g утар<v><tv><ger_past><px3pl><nom>	wrong
+2g утар<v><tv><ger_past><pl><px3sp><nom>+э<cop><aor><p3><sg>	wrong
+2g утар<v><tv><ger_past><px3pl><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 100.0
+
+Онтон, ол, олох даҕаны сэлээппэ буол-батах э-тэ.
+1  Онтон	но
+1g ол<prn><dem><abl>	wrong
+1g онтон<adv>	correct
+1g онтон<adv>+э<cop><aor><p3><sg>	wrong
+2  ол	то
+2g ол<prn><dem><nom>	wrong
+2g ол<mod>	correct
+3  олох	совсем
+3g олох<adv>	correct
+3g олох<n><attr>	wrong
+3g олох<adv>+э<cop><aor><p3><sg>	wrong
+3g олох<n><nom>	correct
+3g олох<n><nom>+э<cop><aor><p3><sg>	wrong
+4  даҕаны	даже
+4g даҕаны<cnjcoo>	correct
+5  сэлээппэ	шляпа
+5g сэлээппэ<n><attr>	wrong
+5g сэлээппэ<n><nom>	correct
+5g сэлээппэ<n><nom>+э<cop><aor><p3><sg>	wrong
+6  буолбатах	быть-PST.PTCP.NEG
+6g буолбатах<cnjcoo>	wrong
+6g буол<v><iv><neg><gpr_past>	wrong
+6g буол<v><iv><neg><past><p3><sg>	correct, но нашлись лишние глоссы: <neg>,<past>,<p3>
+6g буол<v><iv><neg><ger_past><nom>	correct, но нашлись лишние глоссы: <neg>,<ger_past>
+6g буол<v><iv><neg><ger_cond><nom>	wrong
+6g буол<v><iv><neg><ger_past><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: <neg>,<ger_past>,+э<cop>,<aor>,<p3>
+6g буол<v><iv><neg><ger_cond><nom>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: PST
+7  этэ	AUX-PST-3SG
+7g э<cop><ifi><p3><sg>	wrong
+7g эт<n><px3sg><nom>	wrong
+7g эт<v><tv><gna_impf>	wrong
+7g эт<v><tv><prc_impf>	wrong
+7g э<n><par>	wrong
+7g эт<vaux><gna_impf>	wrong
+7g эт<vaux><prc_impf>	wrong
+7g э<n><px3sg><nom>	wrong
+7g эт<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+7g э<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 85.71
+
+Ол солуон-у ыйысты-быт моҕой э-тэ.
+1  Ол	то
+1g ол<prn><dem><nom>	wrong
+1g ол<mod>	correct
+2  солуону	слон-ACC
+2g солуо<n><acc>	correct
+3  ыйыстыбыт	глотать-PST.PTCP
+3g ыйыс<v><tv><ifi><p1><pl>	wrong
+3g ый<v><tv><coop><ifi><p1><pl>	wrong
+4  моҕой	змея
+4g моҕой<n><attr>	wrong
+4g моҕой<n><nom>	correct
+4g моҕой<n><nom>+э<cop><aor><p3><sg>	wrong
+Ошибка в глоссах: PST
+5  этэ	AUX-PST-3SG
+5g э<cop><ifi><p3><sg>	wrong
+5g эт<n><px3sg><nom>	wrong
+5g эт<v><tv><gna_impf>	wrong
+5g эт<v><tv><prc_impf>	wrong
+5g э<n><par>	wrong
+5g эт<vaux><gna_impf>	wrong
+5g эт<vaux><prc_impf>	wrong
+5g э<n><px3sg><nom>	wrong
+5g эт<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+5g э<n><px3sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 60.0
+
+Итиччэ-ти-гэр, мин, улахан дьоҥ-ҥо өйдө-н-нүн диэн, аны, моҕой иһ-ин курдаттыы уруһуйдаа-быт-ым.
+1  Итиччэтигэр	такой-POSS.3SG-DAT
+2  мин	я
+2g мин<prn><pers><p1><sg><nom>	wrong
+2g мин<n><attr>	wrong
+2g мин<n><nom>	correct
+2g мин<n><nom>+э<cop><aor><p3><sg>	wrong
+3  улахан	большой
+3g улахан<adj>	correct
+3g улахан<adj><subst><nom>	wrong
+3g улахан<adj>+э<cop><aor><p3><sg>	wrong
+3g улахан<adj><subst><nom>+э<cop><aor><p3><sg>	wrong
+4  дьоҥҥо	народ-DAT
+4g дьон<n><dat>	correct
+5  өйдөннүн	понимать-CAUS-1SG
+5g өйдөн<v><iv><imp><p3><sg>	wrong
+6  диэн	CONJ
+6g диэн<post>	wrong
+6g диэ<v><tv><gna_perf>	wrong
+6g диэ<v><tv><prc_perf>	wrong
+6g диэ<v><tv><ger_irre><nom>	wrong
+6g диэн<cnjcoo>	wrong
+7  аны	теперь
+7g аны<adv>	correct
+7g аны<adv>+э<cop><aor><p3><sg>	wrong
+7g а<n><acc>	wrong
+8  моҕой	змея
+8g моҕой<n><attr>	wrong
+8g моҕой<n><nom>	correct
+8g моҕой<n><nom>+э<cop><aor><p3><sg>	wrong
+9  иһин	живот-ACC
+9g иһин<post>	wrong
+9g ис<n><px3sg><acc>	correct, но нашлись лишние глоссы: <px3sg>
+10  курдаттыы	насквозь
+10g курдаттаа<v><tv><gna_impf>	wrong
+10g курдаттаа<v><tv><prc_impf>	wrong
+10g курдаттыы<adv>	correct
+10g курдаттыы<adv>+э<cop><aor><p3><sg>	wrong
+11  уруһуйдаабытым	рисовать-PREPST-1SG
+11g уруһуйдаа<v><tv><plu><p1><sg>	correct, но нашлись лишние глоссы: <p1>
+11g уруһуйдаа<v><tv><ger_past><px1sg><nom>	wrong
+11g уруһуйдаа<v><tv><ger_past><px1sg><nom>+э<cop><aor><p3><sg>	wrong
+Процент правильных слов: 72.73
+
+Кинилэргэ куруук быһааран биэриэх тустааххын.
+1  Кинилэргэ	он(а)-PL-DAT
+1g кинилэр<prn><pers><p3><hu><pl><dat>	correct, но нашлись лишние глоссы: <pers>,<p3>,<hu>
+1g кини<n><pl><dat>	correct
+2  куруук	постоянно
+2g куруук<adv>	correct
+2g куруук<n><attr>	wrong
+2g күрүүк<n><attr>	wrong
+2g куруук<adv>+э<cop><aor><p3><sg>	wrong
+2g куруук<n><nom>	correct
+2g күрүүк<n><nom>	correct
+2g куруук<n><nom>+э<cop><aor><p3><sg>	wrong
+2g күрүүк<n><nom>+э<cop><aor><p3><sg>	wrong
+3  быһааран	объяснять
+3g быһаар<v><tv><gna_perf>	wrong
+3g быһаар<v><tv><prc_perf>	wrong
+4  биэриэх	давать-FUT.PTCP
+4g биэр<v><tv><gpr_fut>	correct
+4g биэр<vaux><gpr_fut>	correct
+4g биэр<v><tv><imp><p1><du>	wrong
+4g биэр<vaux><imp><p1><du>	wrong
+4g биэр<v><tv><ger_fut><nom>	correct
+4g биэр<vaux><ger_fut><nom>	correct
+4g биэр<v><tv><ger_fut><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+4g биэр<vaux><ger_fut><nom>+э<cop><aor><p3><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p3>
+Ошибка в глоссах: DEB.PART
+5  тустааххын	DEB.PART-2SG
+5g тустаах<n><px2sg><acc>	wrong
+5g тустаах<adj>+э<cop><aor><p2><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p2>
+5g тустаах<n><nom>+э<cop><aor><p2><sg>	correct, но нашлись лишние глоссы: +э<cop>,<aor>,<p2>
+Процент правильных слов: 80.0
+
+Кол-во верных предложений: 4
+Общий процент верных слов: 77.72
